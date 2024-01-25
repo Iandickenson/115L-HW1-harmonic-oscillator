@@ -11,3 +11,6 @@ def normalize_2n(n):
     return new_coeff
 
 print(normalize_2n(4))
+
+for i in range(6):
+    print(normalize_2n(i))
