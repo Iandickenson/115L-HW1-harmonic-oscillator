@@ -1,0 +1,7 @@
+[project]
+assignment-name = "115L Harmonic Oscillator"
+author = "Ian Dickenson"
+dependencies = [
+	"numpy",
+]
+
